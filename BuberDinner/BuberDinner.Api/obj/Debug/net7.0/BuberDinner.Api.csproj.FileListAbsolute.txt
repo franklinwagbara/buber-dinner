@@ -33,3 +33,9 @@ C:\Users\BrandOneTech\source\repos\dotnet tutorials\cleantut\BuberDinner\BuberDi
 C:\Users\BrandOneTech\source\repos\dotnet tutorials\cleantut\BuberDinner\BuberDinner.Api\bin\Debug\net7.0\BuberDinner.Application.pdb
 C:\Users\BrandOneTech\source\repos\dotnet tutorials\cleantut\BuberDinner\BuberDinner.Api\bin\Debug\net7.0\BuberDinner.Infrastructure.pdb
 C:\Users\BrandOneTech\source\repos\dotnet tutorials\cleantut\BuberDinner\BuberDinner.Api\bin\Debug\net7.0\BuberDinner.Domain.pdb
+C:\Users\BrandOneTech\source\repos\dotnet tutorials\cleantut\BuberDinner\BuberDinner.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\BrandOneTech\source\repos\dotnet tutorials\cleantut\BuberDinner\BuberDinner.Api\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\BrandOneTech\source\repos\dotnet tutorials\cleantut\BuberDinner\BuberDinner.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\BrandOneTech\source\repos\dotnet tutorials\cleantut\BuberDinner\BuberDinner.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\BrandOneTech\source\repos\dotnet tutorials\cleantut\BuberDinner\BuberDinner.Api\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\BrandOneTech\source\repos\dotnet tutorials\cleantut\BuberDinner\BuberDinner.Api\bin\Debug\net7.0\Newtonsoft.Json.dll

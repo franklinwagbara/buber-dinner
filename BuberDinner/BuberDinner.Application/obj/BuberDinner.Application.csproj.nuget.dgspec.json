@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\BrandOneTech\\source\\repos\\dotnet tutorials\\cleantut\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj": {}
+    "C:\\Users\\BrandOneTech\\source\\repos\\dotnet tutorials\\cleantut\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj": {}
   },
   "projects": {
-    "c:\\Users\\BrandOneTech\\source\\repos\\dotnet tutorials\\cleantut\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj": {
+    "C:\\Users\\BrandOneTech\\source\\repos\\dotnet tutorials\\cleantut\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\BrandOneTech\\source\\repos\\dotnet tutorials\\cleantut\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj",
+        "projectUniqueName": "C:\\Users\\BrandOneTech\\source\\repos\\dotnet tutorials\\cleantut\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj",
         "projectName": "BuberDinner.Application",
-        "projectPath": "c:\\Users\\BrandOneTech\\source\\repos\\dotnet tutorials\\cleantut\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj",
+        "projectPath": "C:\\Users\\BrandOneTech\\source\\repos\\dotnet tutorials\\cleantut\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj",
         "packagesPath": "C:\\Users\\BrandOneTech\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\BrandOneTech\\source\\repos\\dotnet tutorials\\cleantut\\BuberDinner\\BuberDinner.Application\\obj\\",
+        "outputPath": "C:\\Users\\BrandOneTech\\source\\repos\\dotnet tutorials\\cleantut\\BuberDinner\\BuberDinner.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -48,6 +48,12 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

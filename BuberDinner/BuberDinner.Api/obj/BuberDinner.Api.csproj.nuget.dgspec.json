@@ -33,14 +33,14 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "c:\\Users\\BrandOneTech\\source\\repos\\dotnet tutorials\\cleantut\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj": {
-                "projectPath": "c:\\Users\\BrandOneTech\\source\\repos\\dotnet tutorials\\cleantut\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj"
+              "C:\\Users\\BrandOneTech\\source\\repos\\dotnet tutorials\\cleantut\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj": {
+                "projectPath": "C:\\Users\\BrandOneTech\\source\\repos\\dotnet tutorials\\cleantut\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj"
               },
               "C:\\Users\\BrandOneTech\\source\\repos\\dotnet tutorials\\cleantut\\BuberDinner\\BuberDinner.Contracts\\BuberDinner.Contracts.csproj": {
                 "projectPath": "C:\\Users\\BrandOneTech\\source\\repos\\dotnet tutorials\\cleantut\\BuberDinner\\BuberDinner.Contracts\\BuberDinner.Contracts.csproj"
               },
-              "C:\\Users\\BrandOneTech\\source\\repos\\dotnet tutorials\\cleantut\\BuberDinner\\BuberDinner.Infrastructure\\BuberDinner.Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\BrandOneTech\\source\\repos\\dotnet tutorials\\cleantut\\BuberDinner\\BuberDinner.Infrastructure\\BuberDinner.Infrastructure.csproj"
+              "c:\\Users\\BrandOneTech\\source\\repos\\dotnet tutorials\\cleantut\\BuberDinner\\BuberDinner.Infrastructure\\BuberDinner.Infrastructure.csproj": {
+                "projectPath": "c:\\Users\\BrandOneTech\\source\\repos\\dotnet tutorials\\cleantut\\BuberDinner\\BuberDinner.Infrastructure\\BuberDinner.Infrastructure.csproj"
               }
             }
           }
@@ -54,6 +54,12 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -77,14 +83,14 @@
         }
       }
     },
-    "c:\\Users\\BrandOneTech\\source\\repos\\dotnet tutorials\\cleantut\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj": {
+    "C:\\Users\\BrandOneTech\\source\\repos\\dotnet tutorials\\cleantut\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\BrandOneTech\\source\\repos\\dotnet tutorials\\cleantut\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj",
+        "projectUniqueName": "C:\\Users\\BrandOneTech\\source\\repos\\dotnet tutorials\\cleantut\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj",
         "projectName": "BuberDinner.Application",
-        "projectPath": "c:\\Users\\BrandOneTech\\source\\repos\\dotnet tutorials\\cleantut\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj",
+        "projectPath": "C:\\Users\\BrandOneTech\\source\\repos\\dotnet tutorials\\cleantut\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj",
         "packagesPath": "C:\\Users\\BrandOneTech\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\BrandOneTech\\source\\repos\\dotnet tutorials\\cleantut\\BuberDinner\\BuberDinner.Application\\obj\\",
+        "outputPath": "C:\\Users\\BrandOneTech\\source\\repos\\dotnet tutorials\\cleantut\\BuberDinner\\BuberDinner.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -121,6 +127,12 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -261,14 +273,14 @@
         }
       }
     },
-    "C:\\Users\\BrandOneTech\\source\\repos\\dotnet tutorials\\cleantut\\BuberDinner\\BuberDinner.Infrastructure\\BuberDinner.Infrastructure.csproj": {
+    "c:\\Users\\BrandOneTech\\source\\repos\\dotnet tutorials\\cleantut\\BuberDinner\\BuberDinner.Infrastructure\\BuberDinner.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\BrandOneTech\\source\\repos\\dotnet tutorials\\cleantut\\BuberDinner\\BuberDinner.Infrastructure\\BuberDinner.Infrastructure.csproj",
+        "projectUniqueName": "c:\\Users\\BrandOneTech\\source\\repos\\dotnet tutorials\\cleantut\\BuberDinner\\BuberDinner.Infrastructure\\BuberDinner.Infrastructure.csproj",
         "projectName": "BuberDinner.Infrastructure",
-        "projectPath": "C:\\Users\\BrandOneTech\\source\\repos\\dotnet tutorials\\cleantut\\BuberDinner\\BuberDinner.Infrastructure\\BuberDinner.Infrastructure.csproj",
+        "projectPath": "c:\\Users\\BrandOneTech\\source\\repos\\dotnet tutorials\\cleantut\\BuberDinner\\BuberDinner.Infrastructure\\BuberDinner.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\BrandOneTech\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\BrandOneTech\\source\\repos\\dotnet tutorials\\cleantut\\BuberDinner\\BuberDinner.Infrastructure\\obj\\",
+        "outputPath": "c:\\Users\\BrandOneTech\\source\\repos\\dotnet tutorials\\cleantut\\BuberDinner\\BuberDinner.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -290,8 +302,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "c:\\Users\\BrandOneTech\\source\\repos\\dotnet tutorials\\cleantut\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj": {
-                "projectPath": "c:\\Users\\BrandOneTech\\source\\repos\\dotnet tutorials\\cleantut\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj"
+              "C:\\Users\\BrandOneTech\\source\\repos\\dotnet tutorials\\cleantut\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj": {
+                "projectPath": "C:\\Users\\BrandOneTech\\source\\repos\\dotnet tutorials\\cleantut\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj"
               }
             }
           }
@@ -305,6 +317,20 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Options.ConfigurationExtensions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.32.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
